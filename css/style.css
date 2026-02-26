@@ -10,21 +10,21 @@ body {
 /* Navigation Styling */
 nav {
     text-align: center;
-    margin: 40px;
-    a {
-        color: #c6a85b;
-        font-size: 14px;
-        font-style: uppercase;
-        margin-left: 20px;
-        margin-right: 20px;
-        text-decoration: none;
-        letter-spacing: 2px;
-    }
-    a:hover {
-        text-decoration: underline;
-        color: #9aa0a6;
-    }
-    }
+    margin-top: 40px;
+}
+nav a {
+    color: #c6a85b;
+    font-size: 14px;
+    font-style: uppercase;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+nav a:hover {
+    text-decoration: underline;
+    color: #9aa0a6;
+}
 
 /* Typography Rules */
 h1 {
